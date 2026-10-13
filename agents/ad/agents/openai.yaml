@@ -1,0 +1,14 @@
+interface:
+  display_name: Art Director
+  short_description: Identité de marque, direction artistique et motion design
+  default_prompt: Utilise $art-director pour concevoir ou affiner mon identité, mes
+    visuels et mes animations, puis préparer leur réalisation dans l’atelier adapté.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
