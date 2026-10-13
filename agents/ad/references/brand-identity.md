@@ -18,6 +18,8 @@ Distinguer recherche exploratoire sur le web, noms de domaine, comptes sociaux e
 
 Décliner le nom retenu en signature, messages et ton seulement dans le périmètre demandé. Décrire une voix par des exemples applicables : accueil, offre, erreur, confirmation ou campagne ; préciser ce qui varie avec le contexte. Préserver les faits et les promesses démontrables. Ne pas créer un second brief produit.
 
+Dans les textes de marque, rechercher des formulations naturelles pour le public et cohérentes avec la voix acceptée. Éviter les raccourcis télégraphiques, abstractions et slogans ambigus lorsqu'ils imposent de reconstruire le sens ; préférer une formulation explicite si elle améliore la compréhension. Ne pas allonger un message déjà clair ni uniformiser la personnalité de marque.
+
 ## Identité visuelle et logo
 
 Traduire les fondations retenues en choix visibles : relation symbole/nom, typographie, couleur, composition, iconographie, photographie, illustration et mouvement lorsqu’ils sont utiles. Explorer des directions distinctes sur un contenu comparable ; utiliser la référence creative-direction pour la méthode visuelle.

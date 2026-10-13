@@ -21,6 +21,8 @@ Examiner les points qui influencent cette action :
 
 Proposer seulement les sections ou fonctions qui lèvent une difficulté identifiée. Ne pas imposer blog, chatbot, témoignages inexistants, compte client ou architecture universelle. Refuser fausses urgences, coûts dissimulés et choix trompeurs ; proposer une alternative honnête servant le même objectif.
 
+Pour les formulations destinées aux utilisateurs, privilégier la compréhension immédiate du public visé : expliciter les relations utiles entre action, fonctionnement, bénéfice et conséquence lorsque leur omission obligerait le lecteur à deviner. La concision ne justifie pas d'effacer une information nécessaire ; ne pas développer une phrase déjà claire.
+
 Pour mesurer, préciser événement de réussite, dénominateur, période, source, qualité des demandes et limites de la mesure. Si aucune donnée n'existe, proposer une observation initiale, pas un taux cible présenté comme acquis. Prévoir une collecte proportionnée et ses contraintes de consentement ; ne pas imposer de traceur. Séparer hypothèse d'amélioration, compréhension observée et gain mesuré. Un test comparatif n'est utile que si les moyens et le trafic permettent d'en tirer une conclusion.
 
 ## Identifier les obligations dans le contexte réel
