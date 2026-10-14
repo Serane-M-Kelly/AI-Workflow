@@ -6,6 +6,8 @@ Reprendre public, positionnement, promesse, différences crédibles, personnalit
 
 Distinguer les résultats demandés : stratégie de marque, identité verbale, identité visuelle, charte, ou design system d’un produit. Proposer un ordre adapté aux dépendances. Ne pas concevoir des dizaines d’actifs avant de choisir le nom et la direction nécessaires ; un essai typographique léger peut toutefois aider à comparer une sélection de noms.
 
+Pour une création d'identité de marque, recommander une profondeur Essential (socle bref et suffisant), Standard (système transmissible pour les usages prévus) ou Advanced (règles d'extension pour des usages complexes). Choisir selon les supports, les actifs existants, la durée de vie, les intervenants et les moyens ; Kelly peut ajuster ce choix. Ces profils décrivent l'étendue, jamais la qualité minimale : approfondir chaque dimension selon son besoin, sans imposer trois procédures ni un inventaire fixe.
+
 ## Naming et identité verbale
 
 Définir les critères à partir de l’usage : sens recherché, public, prononciation, langues, mémorisation, longueur, éventuelles extensions de gamme et éléments à préserver. Identifier les mots exclus ou imposés sans déduire des stéréotypes du pays ou du secteur.
@@ -22,6 +24,8 @@ Décliner le nom retenu en signature, messages et ton seulement dans le périmè
 
 Traduire les fondations retenues en choix visibles : relation symbole/nom, typographie, couleur, composition, iconographie, photographie, illustration et mouvement lorsqu’ils sont utiles. Explorer des directions distinctes sur un contenu comparable ; utiliser la référence creative-direction pour la méthode visuelle.
 
+Lorsque plusieurs actifs forment une famille (symboles, icônes, images, compositions ou mouvements), préciser les propriétés qui assurent leur cohérence et les variations permises par les usages. Éprouver ces règles sur des supports représentatifs, sans imposer de bibliothèque pour un actif isolé.
+
 Pour un logo, examiner sa silhouette, sa lisibilité en petit, en monochrome, sur les fonds nécessaires et dans ses usages réels. Prévoir selon le besoin version principale, compacte, symbole et règles d’espacement ; ne pas inventer des variantes sans usage. Comparer aux références et voisins pertinents sans garantir une originalité exhaustive.
 
 Choisir les outils selon le livrable. Une image générée peut servir d’exploration ; elle ne constitue pas à elle seule un logo vectoriel final. Pour une livraison vectorielle demandée, obtenir une source à tracés réellement éditables, vérifier le rendu et fournir les exports utiles. Ne pas présenter une image raster encapsulée dans un SVG comme une vectorisation. Indiquer les dépendances typographiques et les droits connus ; ne pas prétendre qu’une police ou un actif est autorisé sans fondement.
@@ -29,6 +33,8 @@ Choisir les outils selon le livrable. Une image générée peut servir d’explo
 ## Charte et design system
 
 Dimensionner la charte aux usages : versions de logo, marges et tailles pertinentes, couleurs et rôles, typographies, règles de composition, traitement des images et exemples d’application. Fournir des valeurs exploitables et quelques usages incorrects réellement susceptibles d’arriver. Une petite marque peut se contenter d’un document bref et de ses sources.
+
+Toute création d'identité de marque, numérique ou non, doit aboutir à un guide de marque consultable et visuellement inspectable, même au niveau Essential. Y présenter les fondations retenues, l'expression verbale et visuelle, les règles d'usage et les exemples nécessaires pour reproduire la marque avec cohérence ; référencer les valeurs et sources exactes. Ne pas créer d'actifs, de variantes ou de supports inutiles pour remplir le guide. Une simple retouche ou déclinaison reprend les règles existantes ; une refonte substantielle actualise les règles concernées.
 
 Pour un produit numérique, construire le design system à partir des interfaces utiles, pas d’un catalogue générique. Définir fondations et tokens, composants nécessaires, variantes, états, règles responsive et comportements attendus. Couvrir les situations pertinentes : clavier/focus, erreur, chargement, vide, succès, contenu long ou mouvement réduit. Relier les composants aux exigences produit et aux critères visuels ; réserver la vérification fonctionnelle à l’implémentation et aux essais réels.
 
