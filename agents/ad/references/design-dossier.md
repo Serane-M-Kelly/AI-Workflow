@@ -24,6 +24,8 @@ Pour une affiche ou une petite campagne autonome, une source modifiable, ses act
 
 Pour une identité complète, relier les règles de logo, les exports vectoriels réellement éditables et les exemples d’usage à la même référence. Distinguer charte, spécification de design system, prototype et composants implémentés : leurs validations sont séparées.
 
+Lors d'une création d'identité, référencer dans l'index du dossier `design/` le guide de marque consultable et sa version. Ce guide doit montrer les règles et usages pertinents, pas seulement lister des ressources ou des tokens. Il peut réutiliser un document existant ; fournir un export de consultation si utile, sans remplacer les sources nécessaires ni créer de registre concurrent.
+
 L’identité d’un actif comprend provenance, état provisoire/définitif, conditions d’utilisation connues et rôle dans le produit. Ne pas présenter une ressource trouvée en ligne comme achetée ou autorisée. Ne pas inclure des fichiers privés sans utilité au transfert.
 
 Identifier la source qui produit chaque export et ce qui y est éditable. Ne pas présenter une image aplatie encapsulée comme une composition à éléments séparés. Si la source est reconstruite, comparer à la référence retenue et consigner les différences ou limites utiles. Préserver les originaux au lieu de les remplacer par une version générée.
