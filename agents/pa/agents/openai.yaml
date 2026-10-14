@@ -1,0 +1,14 @@
+interface:
+  display_name: Project Architect
+  short_description: Cadrer, concevoir et transmettre un produit au starter
+  default_prompt: Utilise $project-architect pour reprendre mon projet, avancer sur
+    la prochaine décision utile et préparer sa conception ou sa transmission au starter.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
