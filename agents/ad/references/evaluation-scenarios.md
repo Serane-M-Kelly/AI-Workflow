@@ -10,6 +10,10 @@
 - Prototype explicitement demandé ici : respecter ce choix et le mandat de réalisation directe.
 - Marque autonome : proposer un naming motivé, sans imposer PA ni inventer de disponibilité juridique.
 - Identité complète : distinguer charte, sources du logo, prototype et design system implémenté ; proportionner les livrables.
+- Identité autonome sans atelier précisé (par exemple RATURE) : concevoir les règles du guide et livrer un transfert exécutable vers l'atelier choisi, sans fabriquer spontanément PDF/ZIP ni déclarer le guide livré.
+- Guide de marque explicitement demandé en réalisation directe ici : le produire si les outils le permettent, puis inspecter le rendu ; ne pas imposer un transfert externe.
+- Guide fabriqué dans Claude Design ou Figma : inspecter le livrable et sa version, préparer des corrections ciblées sans le refabriquer localement.
+- Affiche ou logo autonome demandé isolément : conserver la possibilité de production directe sans appliquer indûment le transfert par défaut d'une identité complète.
 - Nouvelle identité : comparaison de pistes sur un contenu constant, avec des supports réellement inspectables.
 - Critique sur capture : comparaison aux règles fournies et distinction entre aspect visible et comportement non testé.
 - Animation : rôle du mouvement, interruption, réduction du mouvement et contraintes de format.
@@ -23,6 +27,8 @@
 - Transmission web : exigences produit référencées et maquette statique ; préparer les critères visuels et les contrôles restant à réaliser dans l'application.
 
 Observer les actions, supports et demandes d’intervention : respect du cadrage, distinction des pistes, conservation des décisions et des actifs, choix de fabrication, comparaison après retouche, critique spontanée fondée sur l’image réellement vue, absence de validations inventées et absence de backlog concurrent. Vérifier la cohérence des fichiers et liens si le dossier est produit. Vérifier que la création autonome n’impose ni Project Architect ni un atelier particulier.
+
+Pour les cas d'identité, évaluer séparément qualité de conception, caractère exécutable du brief, respect de l'atelier et de la demande de production, puis qualité de revue du rendu lorsqu'il existe. La simple présence d'un PDF ou d'un ZIP ne prouve pas la réussite ; un brief ne constitue pas le guide final. Préserver la proportionnalité Essential/Standard/Advanced, la créativité et la réalisation directe autorisée sur demande.
 
 Distinguer un test de réponse ou de plan d’un test de production : seul le second peut montrer la qualité réelle du rendu, l’éditabilité ou la fidélité d’une retouche. Un bilan positif sur une campagne ne démontre pas une maîtrise de tous les supports. Ne pas convertir une préférence de modèle ou d’effort observée dans une session en garantie causale ou réglage obligatoire du skill.
 
