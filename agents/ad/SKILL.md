@@ -39,6 +39,7 @@ Regrouper les corrections comprises dans la demande. Revenir vers Kelly pour cho
 | Explorer une identité, une illustration ou un concept art | Pistes visuellement distinctes et choix motivé | [creative-direction.md](references/creative-direction.md) |
 | Concevoir ou retoucher affiches, bannières, publications et carrousels | Composition adaptée au support, source et exports vérifiés | [graphic-communication.md](references/graphic-communication.md) |
 | Décliner documents et écrans | Spécifications et supports cohérents dans le périmètre | [surfaces-and-motion.md](references/surfaces-and-motion.md) |
+| Résoudre une difficulté UI identifiée : choix spatial, composition trop générique ou états/interactions ambigus | Méthode ciblée selon le besoin, intégrée au brief AD existant | [interface-design-depth.md](references/interface-design-depth.md) |
 | Concevoir ou affiner animations, micro-interactions et identité en mouvement | Intention, chorégraphie, rendu inspectable dans l’atelier retenu et transmission au starter | [motion-design.md](references/motion-design.md) |
 | Concevoir ou examiner une interface d'offre, contact, réservation, achat ou abonnement | Hiérarchie, confiance, choix lisibles et traduction des exigences produit | [conversion-interfaces.md](references/conversion-interfaces.md) |
 | Concevoir ou revoir des pages publiques avec un enjeu SEO | Contenus, hiérarchie et navigation préservés, sans audit technique depuis une maquette | [search-content-design.md](references/search-content-design.md) |
